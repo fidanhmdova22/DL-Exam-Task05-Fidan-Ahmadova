@@ -9,5 +9,5 @@ The dataset is downloaded from Kaggle using kagglehub.
 1. Open the notebook in Google Colab or Kaggle
 2. Run all cells from top to bottom
 
-## Results
-All output images and evaluation results are stored in the `results` folder.
+## Slide File
+https://1drv.ms/p/c/a0f25e75545b47a0/IQAcoB44lpCgSbYohxmYH18yAYnu4HP_WNrezJfTwWGKjA8?e=IzFg86
